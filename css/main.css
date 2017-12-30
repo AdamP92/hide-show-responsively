@@ -92,6 +92,10 @@ img {
 @media only screen and (min-width: 90em) {
 
   body {
-    margin-left: 15px;
+    margin-left: 25px;
+  }
+
+  img {
+    width: 24.3%;
   }
 }
